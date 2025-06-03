@@ -3,6 +3,7 @@
   "updated": "2025-06-04T00:00:00Z",
   "banners": [
     { "appid": 111, "weight": 3 },
-    { "appid": 222, "weight": 2 }
+    { "appid": 222, "weight": 2 },
+    { "appid": 333, "weight": 1 }
   ]
 }
