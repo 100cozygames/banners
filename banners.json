@@ -1,9 +1,31 @@
 {
   "version": 1,
-  "updated": "2025-06-04T00:00:00Z",
-  "banners": [
-    { "appid": 111, "weight": 3 },
-    { "appid": 222, "weight": 2 },
-    { "appid": 333, "weight": 1 }
+  "updated": "2025-06-04T12:00:00Z",
+
+  "featured": [
+    { "appid": 2954460, "title": "100 Crime Cats" }
+  ],
+
+  "upcoming": [
+    { "appid": 2775830, "title": "100 Pirate Cats" },
+    { "appid": 2687200, "title": "100 London Cats" },
+    { "appid": 2776910, "title": "100 Paris Cats" },
+    { "appid": 3141070, "title": "100 Indonesia Cats" },
+    { "appid": 3141080, "title": "100 Fantasy Cats" },
+    { "appid": 3141090, "title": "100 Thailand Cats" },
+    { "appid": 3141120, "title": "100 China Cats" },
+    { "appid": 3141130, "title": "100 Italy Cats" },
+    { "appid": 3141140, "title": "100 Sea Cats" },
+    { "appid": 3445520, "title": "100 Sri Lanka Cats" },
+    { "appid": 3466420, "title": "100 Miami Cats" },
+    { "appid": 3466430, "title": "100 Berlin Cats" },
+    { "appid": 3466440, "title": "100 Greece Cats" },
+    { "appid": 3466450, "title": "100 India Cats" },
+    { "appid": 3466460, "title": "100 Singapore Cats" },
+    { "appid": 3495000, "title": "100 Los Angeles Cats" },
+    { "appid": 3495020, "title": "100 Africa Cats" },
+    { "appid": 3495030, "title": "100 Cyprus Cats" },
+    { "appid": 3495040, "title": "100 Dubai Cats" },
+    { "appid": 3495050, "title": "100 Zombie Cats" }
   ]
 }
