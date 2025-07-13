@@ -1,10 +1,10 @@
 {
-  "version": 10,
+  "version": 11,
   "updated": "2025-06-04T12:00:00Z",
 
   "featured": [
-    { "appid": 3141130, "title": "100 Italy Cats" },
-    { "appid": 3466450, "title": "100 India Cats" }
+    { "appid": 3141120, "title": "100 China Cats" },
+    { "appid": 3141130, "title": "100 Italy Cats" }
   ],
 
 "upcoming": [
