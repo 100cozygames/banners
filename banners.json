@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "updated": "2025-06-04T12:00:00Z",
 
   "featured": [
@@ -8,25 +8,25 @@
   ],
 
 "upcoming": [
-    { "appid": 3789580, "title": "100 Ruin Cats" },
-    { "appid": 3789590, "title": "100 Astro Cats" },
-    { "appid": 3789640, "title": "100 Demon Cats" },
-    { "appid": 3789650, "title": "100 Vampire Cats" },
-    { "appid": 3789660, "title": "100 Candy Cats" },
+    { "appid": 4014320, "title": "100 Underwater Cats" },
+    { "appid": 4014310, "title": "100 Bakery Cats" },
+    { "appid": 4014300, "title": "100 Jungle Cats" },
+    { "appid": 4014290, "title": "100 Blacksmith Cats" },
+    { "appid": 4014280, "title": "100 Underworld Cats" },
+    { "appid": 3789680, "title": "100 Camp Cats" },
     { "appid": 3789670, "title": "100 Witch Cats" },
-    { "appid": 3141070, "title": "100 Indonesia Cats" },
-    { "appid": 3141090, "title": "100 Thailand Cats" },
-    { "appid": 3445520, "title": "100 Sri Lanka Cats" },
-    { "appid": 3466420, "title": "100 Miami Cats" },
-    { "appid": 3466430, "title": "100 Berlin Cats" },
-    { "appid": 3466440, "title": "100 Greece Cats" },
-    { "appid": 3466450, "title": "100 India Cats" },
-    { "appid": 3466460, "title": "100 Singapore Cats" },
-    { "appid": 3495000, "title": "100 Los Angeles Cats" },
-    { "appid": 3495020, "title": "100 Africa Cats" },
-    { "appid": 3495030, "title": "100 Cyprus Cats" },
-    { "appid": 3495040, "title": "100 Dubai Cats" },
+    { "appid": 3789660, "title": "100 Candy Cats" },
+    { "appid": 3789650, "title": "100 Vampire Cats" },
+    { "appid": 3789640, "title": "100 Demon Cats" },
+    { "appid": 3789630, "title": "100 Hong Kong Cats" },
+    { "appid": 3789620, "title": "100 Amsterdam Cats" },
+    { "appid": 3789610, "title": "100 Lisbon Cats" },
     { "appid": 3789600, "title": "100 Barcelona Cats" },
-    { "appid": 3789610, "title": "100 Lisbon Cats" }
+    { "appid": 3789590, "title": "100 Astro Cats" },
+    { "appid": 3789580, "title": "100 Ruin Cats" },
+    { "appid": 3495040, "title": "100 Dubai Cats" },
+    { "appid": 3495030, "title": "100 Cyprus Cats" },
+    { "appid": 3495000, "title": "100 Los Angeles Cats" },
+    { "appid": 3495020, "title": "100 Africa Cats" }
   ]
 }
